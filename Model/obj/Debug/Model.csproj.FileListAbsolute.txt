@@ -1,0 +1,8 @@
+C:\Data\Github\rster2002\cs-c-\MongoDB\Model\bin\Debug\Model.dll
+C:\Data\Github\rster2002\cs-c-\MongoDB\Model\bin\Debug\Model.pdb
+C:\Data\Github\rster2002\cs-c-\MongoDB\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Data\Github\rster2002\cs-c-\MongoDB\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Data\Github\rster2002\cs-c-\MongoDB\Model\obj\Debug\Model.dll
+C:\Data\Github\rster2002\cs-c-\MongoDB\Model\obj\Debug\Model.pdb
+C:\Data\Github\rster2002\cs-c-\MongoDB\Model\bin\Debug\MongoDB.Bson.dll
+C:\Data\Github\rster2002\cs-c-\MongoDB\Model\obj\Debug\Model.csproj.CopyComplete

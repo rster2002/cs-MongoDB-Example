@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kZ+f6QGv8gjvs9oqkTbVOEWU5KPj7NgoAwo9Qhuk7JhMfTxMl+kteP8oM/R0zTAGgsDAWNSr0vHMIc7ExDEhpA==",
+  "success": true,
+  "projectFilePath": "C:\\Data\\Github\\rster2002\\cs-c-\\MongoDB\\Model\\Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bjorn\\.nuget\\packages\\mongodb.bson\\2.11.2\\mongodb.bson.2.11.2.nupkg.sha512"
+  ],
+  "logs": []
+}
